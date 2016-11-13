@@ -6,7 +6,7 @@
         $("nav.navbar-wrapper.navbar-fixed-top").css("background-color", "black"); // if yes, then change the color of class "navbar-fixed-top" to white (#f8f8f8)
       } else {
         $("nav.navbar-wrapper.navbar-fixed-top").css("background-color", "transparent"); // if not, change it back to transparent
-        $(".container-2 input#search").css("background-color", "transparent");
+        $(".container-2 input#search").css("background-color", "transparent"); 
       }
     });
   });
