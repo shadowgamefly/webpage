@@ -24,7 +24,7 @@
   -moz-transition: width .5s ease;
   -ms-transition: width .5s ease;
   -o-transition: width .5s ease;
-  transition: width .5s ease;
+  transition: .5s;
 }
 
 .container-2 input#search::-webkit-input-placeholder {
@@ -66,5 +66,5 @@
 }
 
 nav.navbar-wrapper.navbar-fixed-top {
-  transition : 0.5s;
+  transition : .5s;
 }
